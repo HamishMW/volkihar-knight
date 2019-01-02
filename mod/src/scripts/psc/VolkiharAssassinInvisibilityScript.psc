@@ -1,13 +1,18 @@
 Scriptname VolkiharAssassinInvisibilityScript extends activemagiceffect  
+{Handles visual, audio, and spell effects for the Assassin cuirass}
 
-Event OnEffectStart(Actor akTarget, Actor akCaster)
-	; Make player turn invisible and throw away attached arrows.
-	akCaster.SetSubGraphFloatVariable("fdampRate", 0.015) ;;speeds up fade rate (max 1 min .1
-	akCaster.SetSubGraphFloatVariable("ftoggleBlend", 1.45) ;;blends between two anims default 0 (0 = there 1 = gone)
+event OnEffectStart(Actor akTarget, Actor akCaster)
+	;Make player turn invisible and throw away attached arrows.
+	;speeds up fade rate (max 1 min .1
+	akCaster.SetSubGraphFloatVariable("fdampRate", 0.015)
+	;blends between two anims default 0 (0 = there 1 = gone)
+	akCaster.SetSubGraphFloatVariable("ftoggleBlend", 1.45)
 	akCaster.ClearExtraArrows()
-EndEvent
+endEvent
 
-Event OnEffectFinish(Actor akTarget, Actor akCaster)
-	akCaster.SetSubGraphFloatVariable("fdampRate", 0.02) ;;speeds up fade rate (max 1 min .1
-	akCaster.SetSubGraphFloatVariable("ftoggleBlend", -0.05);;blends between two anims default 0 (0 = there 1 = gone)
-EndEvent
+event OnEffectFinish(Actor akTarget, Actor akCaster)
+	;speeds up fade rate (max 1 min .1
+	akCaster.SetSubGraphFloatVariable("fdampRate", 0.02)
+	;blends between two anims default 0 (0 = there 1 = gone)
+	akCaster.SetSubGraphFloatVariable("ftoggleBlend", -0.05)
+endEvent
