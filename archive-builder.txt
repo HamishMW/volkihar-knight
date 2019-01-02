@@ -1,0 +1,10 @@
+Log: VolkiharKnightArchiveLog.txt
+New Archive
+Check: Meshes
+Check: Textures
+Check: Retain Directory Names
+Check: Retain File Names
+Check: Compress Archive
+Set File Group Root: Data\
+Add File Group: ./archive-manifest.txt
+Save Archive: ./VolkiharKnight.bsa
