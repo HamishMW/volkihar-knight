@@ -4,10 +4,13 @@
 
 This repository contains the source files for the [Volkihar Knight vampire armor mod](https://www.nexusmods.com/skyrimspecialedition/mods/4806/) for Skyrim.
 
-## Create a release build
+## Build dependencies
 
-- Make sure you have python27 installed
+- Install python27
+- Install both the Skyrim Creation Kit and Skyrim Special Edition Creation Kit
 - Type the following in the command line from the project directory to perform a release build
+
+## Create a release build
 
 ```bash
 python build.py
