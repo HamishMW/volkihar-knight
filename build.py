@@ -1,8 +1,11 @@
 import os
 import shutil
 import subprocess
+import getopt
 
-ckClassicDir = 'C:\Program Files (x86)\Steam\steamapps\common\skyrim'
+steamDirDefault = 'C:/Program Files (x86)/Steam'
+steamDir = 'E:/Games/SteamLibrary'
+ckClassicDir = steamDir + '/steamapps/common/skyrim'
 user_input = raw_input('Enter the release version: ')
 
 # Build the temp directory
@@ -37,7 +40,7 @@ subprocess.call([compiler, 'VolkiharKnightRoyalForceTriggerScript.psc', inputDir
 
 # Copy the project files
 print 'Copying project files...'
-with open('./archive-manifest.txt') as manifest:
+with open('./ArchiveManifest.txt') as manifest:
   lines = manifest.readlines()
   for line in lines:
     sourcePath = '.\\' + line.rstrip('\n')
@@ -47,7 +50,7 @@ with open('./archive-manifest.txt') as manifest:
 
 # Build the directories
 def buildDistDir(name, ckDir):
-  dirname = './dist/' + name + ' ' + user_input + ' Release'
+  dirname = './dist/' + name + ' ' + user_input
   if not os.path.isdir(dirname):
     print 'Creating new build...'
     os.makedirs(dirname)
@@ -61,11 +64,12 @@ def buildDistDir(name, ckDir):
   # Generate BSA archive
   print 'Generating ' + name + ' BSA archive...'
   shutil.copy(ckDir + '/Archive.exe', './tmp/' + name + '/Archive.exe')
-  shutil.copy('./archive-builder.txt', './tmp/' + name + '/archive-builder.txt')
-  shutil.copy('./archive-manifest.txt', './tmp/' + name + '/archive-manifest.txt')
+  shutil.copy('./ArchiveBuilder.txt', './tmp/' + name + '/ArchiveBuilder.txt')
+  shutil.copy('./ArchiveManifest.txt', './tmp/' + name + '/ArchiveManifest.txt')
+  shutil.copy('./ArchiveLog.txt', './tmp/' + name + '/ArchiveLog.txt')
 
   os.chdir('./tmp/' + name)
-  subprocess.call(['./Archive.exe', './archive-builder.txt'])
+  subprocess.call(['./Archive.exe', './ArchiveBuilder.txt'])
   os.chdir('..\\..\\')
 
   # Copy files - Mod
@@ -74,10 +78,10 @@ def buildDistDir(name, ckDir):
 
   # Create release zip
   zip_name_ver = user_input.replace('.', '_')
-  releaseName = name + ' ' + zip_name_ver + ' Release'
-  
+  releaseName = name + ' ' + zip_name_ver
+
   shutil.make_archive(releaseName, format='zip', root_dir=dirname)
-  shutil.move(releaseName + '.zip', releaseName + '.zip')
+  shutil.move(releaseName + '.zip', './dist/' + releaseName + '/' + releaseName + '.zip')
   print 'Created ' + releaseName + '.zip'
 
 buildDistDir('Volkihar Knight CE', ckClassicDir)
