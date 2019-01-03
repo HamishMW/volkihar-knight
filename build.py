@@ -40,7 +40,7 @@ def compileScripts(skyrimDir, skyrimScripts, name):
   subprocess.call([compiler, './Scripts/Source', '-a', inputParam, outputParam, '-f=TESV_Papyrus_Flags.flg'])
 
 compileScripts(ckClassicDir, ckClassicDir + '/Data/Scripts/Source', CEname)
-compileScripts(ckSpecialDir, ckSpecialDir + '/Data/Scripts/Source/Scripts', SEname)
+compileScripts(ckSpecialDir, ckSpecialDir + '/Data/Source/Scripts', SEname)
 
 # Copy the project files
 def copyFiles(name, baseDir):
