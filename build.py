@@ -2,69 +2,89 @@ import os
 import shutil
 import subprocess
 
+ckClassicDir = 'C:\Program Files (x86)\Steam\steamapps\common\skyrim'
 user_input = raw_input('Enter the release version: ')
 
 # Build the temp directory
 print 'Creating temp directories...'
-tempdir = '.\\tmp\\Data\\'
+tempdir = '.\\tmp'
 if os.path.isdir(tempdir):
-    print 'Removing old temp directory...'
-    shutil.rmtree('.\\tmp')
-os.makedirs('./tmp/Data/meshes/classic/meshes/armor/volkiharknight')
-os.makedirs('./tmp/Data/meshes/classic/meshes/magic/volkiharknight')
-os.makedirs('./tmp/Data/meshes/special/meshes/armor/volkiharknight')
-os.makedirs('./tmp/Data/meshes/special/meshes/magic/volkiharknight')
-os.makedirs('./tmp/Data/Scripts')
-os.makedirs('./tmp/Data/Scripts/Source')
-os.makedirs('./tmp/Data/textures/armor/volkiharknight')
+  print 'Removing old temp directory...'
+  shutil.rmtree('.\\tmp')
+
+def makeTempDirs(version):
+  os.makedirs('./tmp/' + version + '/Data/meshes/classic/meshes/armor/volkiharknight')
+  os.makedirs('./tmp/' + version + '/Data/meshes/classic/meshes/magic/volkiharknight')
+  os.makedirs('./tmp/' + version + '/Data/meshes/special/meshes/armor/volkiharknight')
+  os.makedirs('./tmp/' + version + '/Data/meshes/special/meshes/magic/volkiharknight')
+  os.makedirs('./tmp/' + version + '/Data/Scripts')
+  os.makedirs('./tmp/' + version + '/Data/Scripts/Source')
+  os.makedirs('./tmp/' + version + '/Data/textures/armor/volkiharknight')
+
+makeTempDirs('Volkihar Knight CE')
+makeTempDirs('Volkihar Knight SE')
 
 # Compile scripts
-subprocess.call(['C:/Program Files (x86)/Steam/steamapps/common/skyrim/Papyrus Compiler/PapyrusCompiler.exe', 'i="./Scripts/Source"', '-o=./Scripts', '-f=C:/Program Files (x86)/Steam/steamapps/common/skyrim/Data/Scripts/Source/TESV_Papyrus_Flags.flg', '-a'])
+compiler = ckClassicDir + '/Papyrus Compiler/PapyrusCompiler.exe'
+inputDir = '-i=./Scripts/Source;' + ckClassicDir + '/Data/Scripts/Source'
+outputDir = '-o=./Scripts'
+flags = '-f=TESV_Papyrus_Flags.flg'
+
+subprocess.call([compiler, 'VolkiharAssassinInvisibilityScript.psc', inputDir, outputDir, flags])
+subprocess.call([compiler, 'VolkiharKnightEquipScript.psc', inputDir, outputDir, flags])
+subprocess.call([compiler, 'VolkiharKnightRoyalForceEffectScript.psc', inputDir, outputDir, flags])
+subprocess.call([compiler, 'VolkiharKnightRoyalForceTriggerScript.psc', inputDir, outputDir, flags])
 
 # Copy the project files
 print 'Copying project files...'
 with open('./archive-manifest.txt') as manifest:
-    lines = manifest.readlines()
-    for line in lines:
-        shutil.copy('.\\' + line.rstrip('\n'), tempdir + line.rstrip('\n'))
+  lines = manifest.readlines()
+  for line in lines:
+    sourcePath = '.\\' + line.rstrip('\n')
+    if os.path.isdir(sourcePath):
+      shutil.copy(sourcePath, tempdir + '\\CE\\Data\\' + line.rstrip('\n'))
+      shutil.copy(sourcePath, tempdir + '\\SE\\Data\\' + line.rstrip('\n'))
 
 # Build the directories
-dirname = './dist/Volkihar Knight ' + user_input + ' Release'
-if not os.path.isdir(dirname):
+def buildDistDir(name, ckDir):
+  dirname = './dist/' + name + ' ' + user_input + ' Release'
+  if not os.path.isdir(dirname):
     print 'Creating new build...'
-    os.mkdir(dirname)
-else:
+    os.makedirs(dirname)
+  else:
     print 'Removing old build of same version...'
     shutil.rmtree(dirname)
-    os.mkdir(dirname)
+    os.makedirs(dirname)
 
-os.makedirs(dirname + '/Volkihar Knight')
-os.makedirs(dirname + '/fomod')
+  os.makedirs(dirname + '/fomod')
 
-# Generate BSA archive
-print 'Generating BSA archive...'
-shutil.copy('./tools/Archive CE.exe', './tmp/Archive CE.exe')
-shutil.copy('./archive-builder.txt', './tmp/archive-builder.txt')
-shutil.copy('./archive-manifest.txt', './tmp/archive-manifest.txt')
+  # Generate BSA archive
+  print 'Generating ' + name + ' BSA archive...'
+  shutil.copy(ckDir + '/Archive.exe', './tmp/' + name + '/Archive.exe')
+  shutil.copy('./archive-builder.txt', './tmp/' + name + '/archive-builder.txt')
+  shutil.copy('./archive-manifest.txt', './tmp/' + name + '/archive-manifest.txt')
 
-os.chdir('./tmp')
-subprocess.call(['./Archive CE.exe', './archive-builder.txt'])
-os.chdir('..\\')
+  os.chdir('./tmp/' + name)
+  subprocess.call(['./Archive.exe', './archive-builder.txt'])
+  os.chdir('..\\..\\')
 
-print os.listdir('.')
+  # Copy files - Mod
+  shutil.copyfile('./Volkihar Knight.esp', dirname + '/Volkihar Knight.esp')
+  # shutil.copyfile('./tmp/Volkihar Knight.bsa', dirname + '/Data/Volkihar Knight.bsa')
 
-# Copy files - Mod
-shutil.copyfile('./Volkihar Knight.esp', dirname + '/Volikihar Knight')
-shutil.copyfile('./tmp/Volkihar Knight.bsa', dirname + '/Volikihar Knight')
+  # Create release zip
+  zip_name_ver = user_input.replace('.', '_')
+  releaseName = name + ' ' + zip_name_ver + ' Release'
+  
+  shutil.make_archive(releaseName, format='zip', root_dir=dirname)
+  shutil.move(releaseName + '.zip', releaseName + '.zip')
+  print 'Created ' + releaseName + '.zip'
 
-# Create release zip
-zip_name_ver = user_input.replace('.', '_')
-shutil.make_archive('Volkihar Knight ' + zip_name_ver + ' Release', format='zip', root_dir=dirname)
-shutil.move('Volkihar Knight ' + zip_name_ver + ' Release.zip', dirname + '/Volkihar Knight ' + zip_name_ver + ' Release.zip')
-print 'Created ' + dirname + '/Volkihar Knight ' + zip_name_ver + ' Release.zip'
+buildDistDir('Volkihar Knight CE', ckClassicDir)
+# buildDistDir('Volkihar Knight SE')
 
 # Clean Up
 print 'Removing temp files...'
-shutil.rmtree('./tmp')
+# shutil.rmtree('./tmp')
 
 print 'Done!'

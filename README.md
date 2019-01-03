@@ -6,7 +6,7 @@ This repository contains the source files for the [Volkihar Knight vampire armor
 
 ## Create a release build
 
-- Make sure you have node and npm installed
+- Make sure you have python27 installed
 - Type the following in the command line from the project directory to perform a release build
 
 ```bash

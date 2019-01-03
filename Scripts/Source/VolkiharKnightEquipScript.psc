@@ -7,7 +7,7 @@ FormList property VolkiharKnightCuirassFLST Auto
 FormList property VolkiharKnightArmorEffectFLST Auto
 
 function RemoveArmorSpells(Actor akActor)
-	int iIndex = SpellList.Length
+	int iIndex = VolkiharKnightArmorEffectFLST.GetSize()
 	while iIndex
 		iIndex -= 1
 		Spell effectSpell = VolkiharKnightArmorEffectFLST.GetAt(iIndex) As Spell
@@ -31,7 +31,7 @@ function UpdateEquipState(Actor akActor)
 
 			;Set VK cuirass type if the piece is a cuirass
 			if (VolkiharKnightCuirassFLST.HasForm(akItem))
-				cuirassType = VolkiharKnightCuirassFLST.Find(kReference)
+				cuirassType = VolkiharKnightCuirassFLST.Find(akItem)
 			endif
 		else
 			Debug.Notification("Nope")
@@ -39,7 +39,8 @@ function UpdateEquipState(Actor akActor)
 	EndWhile
 
 	if (equipped >= 4)
-		akActor.AddSpell(SpellList[cuirassType])
+		;TODO find out how to make this work
+		;akActor.AddSpell(VolkiharKnightArmorEffectFLST[cuirassType])
 	Else 
 		RemoveArmorSpells(akActor)
 	endif
