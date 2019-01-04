@@ -6,8 +6,8 @@ This repository contains the source files for the [Volkihar Knight vampire armor
 
 ## Build dependencies
 
-- Install python27
-- Install both the Skyrim Creation Kit and Skyrim Special Edition Creation Kit
+- python27
+- Both the Skyrim Creation Kit and Skyrim Special Edition Creation Kit
 - Type the following in the command line from the project directory to perform a release build
 
 ## Create a release build
