@@ -1,10 +1,9 @@
 [size=6][center][img]http://i.imgur.com/FseUuWy.jpg[/img][/center][/size]
 [center][u][url=http://www.nexusmods.com/skyrim/mods/80634/][color=#f0d396]SKYRIM CLASSIC[/color][/url][/u][color=#f0d396]   [/color][color=#999999]|[/color][color=#f0d396]   [/color][u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261266][color=#f0d396]XBOX ONE[/color][/url][/u]   [color=#999999]|[/color]   [u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261085][color=#f0d396]BETH.NET PC[/color][/url][/u][/center]
 
-[size=4][center]A lore-friendly set of heavy vampire armor that comes in 3 variations, 
-each with a unique effect that is applied once all four pieces are worn. 
-The armor is made with vanilla assets, so it fits into 
-the game seamlessly.[/center][/size]
+[size=4][center]A lore-friendly set of heavy vampire armor that comes in 3 variations,
+and unique legendary versions each with an effect that is applied once all four pieces are worn.
+The armor is made with vanilla assets, so it fits into the game seamlessly.[/center][/size]
 
 
 [line]
@@ -13,13 +12,15 @@ the game seamlessly.[/center][/size]
 [color=#f0d396][center][font=Georgia][size=4]D[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][/font][font=Georgia][size=2] [/size][/font][font=Georgia][size=4]S[/size]
 
 [i][size=6]—[/size][/i][/font][/center][/color]
-[center][size=3]The set is equivalent to the ebony tier, and can be crafted with the ebony smithing perk. 
-The hood offers much less protection than the ebony helmet but is balanced by 
+[center][size=3]The armor is equivalent to the ebony tier, and can be crafted with the ebony smithing perk.
+The hood offers much less protection than the ebony helmet but is balanced by
 the other pieces having a higher armor rating. [/size]
 
-[size=3]3 versions of the cuirass can be crafted, each giving a unique bonus when worn in 
-combination with the Volkihar Knight boots, gauntlets, and hood. Each piece of 
-armor can also be tempered and enchanted.[/size][/center]
+
+Unique Set Effects
+
+
+[size=3]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest in the Volkihar Keep Cathedral. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Dependng on the cuirass, a different set bonus will be applied:[/size][/center]
 
 
 [center][img]http://i.imgur.com/pN23Tjw.jpg[/img]
@@ -28,7 +29,7 @@ armor can also be tempered and enchanted.[/size][/center]
 [/size]
 [i][size=2]— Of Royal Blood —[/size][/i][/font][/color]
 
-[size=3]Gives a 15% chance to throw melee attackers into the 
+[size=3]Gives a 15% chance to throw melee attackers into the
 air, draining their health by 20pts for 4 seconds
 
 
@@ -40,7 +41,7 @@ air, draining their health by 20pts for 4 seconds
 
 [size=2]— [i]One With the Abyss[/i] —[/size][/color][/font]
 
-[size=3]Muffles your footsteps and allows vampires to 
+[size=3]Muffles your footsteps and allows vampires to
 regenerate stamina, magicka, and health in Sunlight
 
 
@@ -53,7 +54,7 @@ regenerate stamina, magicka, and health in Sunlight
 [/size]
 [size=2]— [i]Smoke and Shadow[/i] —[/size][/color][/font]
 
-[size=3]Turns you into a wisp of smoke when you sneak 
+[size=3]Turns you into a wisp of smoke when you sneak
 outside of combat, granting you invisibility[/size][/center]
 
 
@@ -68,25 +69,19 @@ outside of combat, granting you invisibility[/size][/center]
 [/size]
 [list]
 [*][size=3]Male and Female versions[/size]
-[*][size=3]3 variations with unique effects[/size]
-[*][size=3]Craftable at the forge (with ebony smithing)[/size]
-[*][size=3]Upgradeable at the workbench (with ebony smithing)[/size]
-[*][size=3]Optional light armor version[/size]
-[*][size=3]Fully enchantable[/size]
-[*][size=3]Beast races supported[/size]
+[*][size=3]3 unique variations with set bonus effects, found in the Volkihar Keep Cathedral[/size]
+[*][size=3]Craftable versions without any effects[/size]
+[*][size=3]Craftable and upgradeable (with ebony smithing)[/size]
+[*][size=3]Fully enchantable (including the unique sets)[/size]
+[*][size=3]Heavy and light armor versions included[/size]
+[*][size=3]Beast race support[/size]
+[*][size=3]Weight slider support[/size]
 [/list]
 
 
 [font=Georgia][color=#f0d396][size=4]C[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]M[/size][size=2] [/size][size=4]P[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]B[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]Y[/size][/color][/font]
 
-[size=3]The only potential incompatibility with this mod would be any mod that alters the vampire weakness to sunlight effect, which will cause the Abysswalker effect to not regenerate properly. I will be releasing compatibility patches for these mods and will update this section once they're out.[/size]
-
-[size=3]Compatibility patches are available as options in the installer for:
-[/size]
-[list]
-[*][size=3][url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url][/size]
-[*][size=3][url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url][/size]
-[/list]
+[size=3]The only potential incompatibility with this mod would be any mod that alters the vampire weakness to sunlight effect, which will cause the Abysswalker effect to not regenerate properly. Known mods that change this effect are [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url][/size]. If you use either of these mods, install the Abysswalker patch, which canges the effect to a constant health and stamina regen at a fixed amount.
 
 
 [size=4][font=Georgia][color=#f0d396]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[size=2]  [/size]/[size=2]  [/size]U[size=2] [/size]N[size=2] [/size]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[/color][/font]
@@ -97,13 +92,3 @@ To uninstall, first take off any pieces of the armor, make a new save, then quit
 [/size]
 
 
-[font=Georgia][color=#f0d396][size=4]C[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]M[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]N[/size][size=2] [/size][size=4]G  S[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]N[/size]
-
-[/color][/font][size=3]In order of priority, but subject to change if anyone has suggestions.
-
-[/size][list]
-[*][size=3]Weight slider support[/size]
-[*][size=3]A full dungeon and quest to unlock recipes for the armor[/size]
-[*][size=3]Possibly another set of lower tier armor[/size]
-[/list][size=3]
-[/size]
