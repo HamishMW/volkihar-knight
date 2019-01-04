@@ -95,7 +95,7 @@ def buildDistDir(name, archive):
   releaseName = name + ' ' + zip_name_ver
 
   shutil.make_archive(releaseName, format='zip', root_dir=dirname)
-  shutil.move(releaseName + '.zip', './dist/' + releaseName + '/' + releaseName + '.zip')
+  shutil.move(releaseName + '.zip', './dist/' + name + ' ' + user_input + '/' + releaseName + '.zip')
   print 'Created ' + releaseName + '.zip'
 
 buildDistDir(CEname, ckClassicArchiver)
