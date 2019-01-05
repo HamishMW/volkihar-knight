@@ -15,8 +15,11 @@ meshes\armor\volkiharknight\volkiharknighthoodfarg_0.nif
 meshes\magic\volkiharknight\volkiharknightblastbackfx.nif
 Scripts\VolkiharAssassinInvisibilityScript.pex
 Scripts\VolkiharKnightEquipScript.pex
+Scripts\VolkiharKnightEquipStateScript.pex
+Scripts\VolkiharKnightPlayerAliasScript.pex
 Scripts\VolkiharKnightRoyalForceEffectScript.pex
 Scripts\VolkiharKnightRoyalForceTriggerScript.pex
+Scripts\VolkiharKnightUpdateScript.pex
 textures\armor\volkiharknight\accessories_m.dds
 textures\armor\volkiharknight\accessories_n.dds
 textures\armor\volkiharknight\accessories.dds
