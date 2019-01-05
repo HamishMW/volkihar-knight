@@ -27,6 +27,7 @@ def makeTempDirs(version):
   os.makedirs('./tmp/' + version + '/Data/meshes/magic/volkiharknight')
   os.makedirs('./tmp/' + version + '/Data/Scripts')
   os.makedirs('./tmp/' + version + '/Data/textures/armor/volkiharknight')
+  os.makedirs('./tmp/' + version + '/Data/textures/armor/volkiharknight/colors')
 
 makeTempDirs(CEname)
 makeTempDirs(SEname)
@@ -88,7 +89,7 @@ def buildDistDir(name, archive):
 
   # Copy files - Mod
   shutil.copyfile('./Volkihar Knight.esp', dirname + '/Data/Volkihar Knight.esp')
-  shutil.copyfile('./tmp/' + name + '/VolkiharKnight.bsa', dirname + '/Data/VolkiharKnight.bsa')
+  shutil.copyfile('./tmp/' + name + '/Volkihar Knight.bsa', dirname + '/Data/Volkihar Knight.bsa')
 
   # Create release zip
   zip_name_ver = user_input.replace('.', '_')

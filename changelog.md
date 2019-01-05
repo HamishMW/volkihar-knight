@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.0.0
+## Version 0.4.0
 - !Weight slider support
 - Improved textures
 - Condensed textures into fewer files to improve performance
@@ -13,6 +13,7 @@
 - !Added unique legendary sets to a chest in Volkihar Keep Cathedral (legendary sets apply the set bonus when 4 pieces worn)
 - !Lgendary sets are no longer craftable - there is only one of each in Volkihar Keep Cathedral
 - Volkihar Knight is now open source. The mod's scripts and assets are on GitHub https://github.com/HamishMW/volkihar-knight/
+- !Added a script to verify armor effects on load. This should fix any issues with effects either sticking or not applying
 
 ## Version 0.3.2
 - Unequipping and re-equipping all armor should now fix any issues with effects not being applied

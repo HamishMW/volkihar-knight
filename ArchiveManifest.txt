@@ -29,6 +29,9 @@ textures\armor\volkiharknight\armorf.dds
 textures\armor\volkiharknight\boots_m.dds
 textures\armor\volkiharknight\boots_n.dds
 textures\armor\volkiharknight\boots.dds
+textures\armor\volkiharknight\bootsf_m.dds
+textures\armor\volkiharknight\bootsf_n.dds
+textures\armor\volkiharknight\bootsf.dds
 textures\armor\volkiharknight\bracers_m.dds
 textures\armor\volkiharknight\bracers_n.dds
 textures\armor\volkiharknight\bracers.dds
@@ -43,3 +46,7 @@ textures\armor\volkiharknight\robesf.dds
 textures\armor\volkiharknight\scarf_n.dds
 textures\armor\volkiharknight\scarf.dds
 textures\armor\volkiharknight\vk_cubemap.dds
+textures\armor\volkiharknight\colors\robes_abysswalker.dds
+textures\armor\volkiharknight\colors\robes_assassin.dds
+textures\armor\volkiharknight\colors\robesf_abysswalker.dds
+textures\armor\volkiharknight\colors\robesf_assassin.dds
