@@ -4,6 +4,7 @@ meshes\armor\volkiharknight\volkiharknightboots_go.nif
 meshes\armor\volkiharknight\volkiharknightcuirass_0.nif
 meshes\armor\volkiharknight\volkiharknightcuirass_go.nif
 meshes\armor\volkiharknight\volkiharknightcuirassf_0.nif
+meshes\armor\volkiharknight\volkiharknightcuirassf_1.nif
 meshes\armor\volkiharknight\volkiharknightcuirassf_go.nif
 meshes\armor\volkiharknight\volkiharknightgauntlets_0.nif
 meshes\armor\volkiharknight\volkiharknightgauntlets_go.nif
