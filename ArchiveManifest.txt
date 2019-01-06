@@ -1,7 +1,12 @@
+meshes\armor\volkiharknight\volkiharknight1stperson_0.nif
+meshes\armor\volkiharknight\volkiharknight1stperson_1.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonf_0.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonf_1.nif
 meshes\armor\volkiharknight\volkiharknightboots_0.nif
 meshes\armor\volkiharknight\volkiharknightbootsf_0.nif
 meshes\armor\volkiharknight\volkiharknightboots_go.nif
 meshes\armor\volkiharknight\volkiharknightcuirass_0.nif
+meshes\armor\volkiharknight\volkiharknightcuirass_1.nif
 meshes\armor\volkiharknight\volkiharknightcuirass_go.nif
 meshes\armor\volkiharknight\volkiharknightcuirassf_0.nif
 meshes\armor\volkiharknight\volkiharknightcuirassf_1.nif

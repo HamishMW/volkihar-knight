@@ -2,8 +2,8 @@ Scriptname VolkiharKnightRoyalForceEffectScript extends activemagiceffect
 {Handles visual, audio, and spell effects for the Royal Guard cuirass}
 
 Spell property VolkiharKnightArmorEffectRoyalDrainSpell Auto
-VisualEffect property ForceEffect  Auto
-VisualEffect property ForceEffectSecondary  Auto
+VisualEffect property ForceEffect Auto
+VisualEffect property ForceEffectSecondary Auto
 Sound property BlastBackSound Auto
 Actor property PlayerRef Auto
 
