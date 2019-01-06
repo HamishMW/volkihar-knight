@@ -18,8 +18,8 @@ function Maintenance()
 	if version < 0.4
 		version = 0.4
 		Debug.Notification("Now running Volkihar Knight " + version)
-	endIf
 
-  ;Update equip state on load
-  VolkiharKnightEquipStateScript.updateEquipState(PlayerRef, VolkiharKnightArmorFLST, VolkiharKnightCuirassFLST, VolkiharKnightArmorEffectFLST)
+    ;Update equip state on update
+    VolkiharKnightEquipStateScript.updateEquipState(PlayerRef, VolkiharKnightArmorFLST, VolkiharKnightCuirassFLST, VolkiharKnightArmorEffectFLST)
+	endIf
 endFunction

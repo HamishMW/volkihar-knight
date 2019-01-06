@@ -1,4 +1,4 @@
-Scriptname VolkiharKnightRoyalForceTriggerScript extends activemagiceffect  
+Scriptname VolkiharKnightRoyalForceTriggerScript extends activemagiceffect
 {Determines when to trigger the Royal Guard effect}
 
 Spell property VolkiharKnightArmorEffectRoyalForceDrainSpell Auto

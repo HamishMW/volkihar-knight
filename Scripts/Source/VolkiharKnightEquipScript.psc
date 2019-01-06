@@ -3,6 +3,7 @@ Scriptname VolkiharKnightEquipScript extends ObjectReference
 
 Import VolkiharKnightEquipStateScript
 
+Actor property PlayerRef auto
 FormList property VolkiharKnightArmorFLST Auto
 FormList property VolkiharKnightCuirassFLST Auto
 FormList property VolkiharKnightArmorEffectFLST Auto
@@ -13,14 +14,14 @@ endFunction
 
 event OnUnequipped(Actor akActor)
 	Debug.Notification("unequip")
-	if akActor == Game.getPlayer()
+	if akActor == PlayerRef
 		onEquipUnequip(akActor)
 	endif
 endevent
 
 event OnEquipped(Actor akActor)
 	Debug.Notification("equip")
-	if akActor == Game.getPlayer()
+	if akActor == PlayerRef
 		int armorIndex = VolkiharKnightArmorFLST.GetSize()
 		onEquipUnequip(akActor)
 	endif

@@ -1,4 +1,4 @@
-Scriptname VolkiharAssassinInvisibilityScript extends activemagiceffect  
+Scriptname VolkiharAssassinInvisibilityScript extends activemagiceffect
 {Handles visual, audio, and spell effects for the Assassin cuirass}
 
 event OnEffectStart(Actor akTarget, Actor akCaster)

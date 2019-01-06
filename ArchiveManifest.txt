@@ -1,5 +1,9 @@
 meshes\armor\volkiharknight\volkiharknight1stperson_0.nif
 meshes\armor\volkiharknight\volkiharknight1stperson_1.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonabysswalkerf_0.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonabysswalkerf_1.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonassassinf_0.nif
+meshes\armor\volkiharknight\volkiharknight1stpersonassassinf_1.nif
 meshes\armor\volkiharknight\volkiharknight1stpersonf_0.nif
 meshes\armor\volkiharknight\volkiharknight1stpersonf_1.nif
 meshes\armor\volkiharknight\volkiharknightboots_0.nif
