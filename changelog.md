@@ -1,19 +1,20 @@
 # Changelog
 
-## Version 0.4.0
-- !Weight slider support
+## Version 1.0.0
+- Weight slider support
 - Improved textures
+- New gauntlets design
 - Condensed textures into fewer files to improve performance
-- Updated equip script to be more reliable
-- Added female boot meshes
-- !Fixed first person view textures
+- Added female boot and gauntlet meshes
+- Fixed female first person view textures
 - !Added light armor version to the main plugin
-- !Removed specific patches for Better Vampires and Sacrosanct. There is now a generic patch that changes the effect to be compatible with mods that change the sunlight effect
+- !Removed specific patches for Better Vampires and Sacrosanct. There is now a generic patch that changes the effect to be compatible with mods that change the sunlight effect.
 - !Added craftable versions with no set bonus effects
 - !Added unique legendary sets to a chest in Volkihar Keep Cathedral (legendary sets apply the set bonus when 4 pieces worn)
 - !Lgendary sets are no longer craftable - there is only one of each in Volkihar Keep Cathedral
-- Volkihar Knight is now open source. The mod's scripts and assets are on GitHub https://github.com/HamishMW/volkihar-knight/
-- !Added a script to verify armor effects on load. This should fix any issues with effects either sticking or not applying
+- Refactored equip script to be more reliable and efficient
+- Added a script to verify armor effects on load. This should fix any issues with effects either sticking or not applying
+- Volkihar Knight is now open source. The mod's source scripts, meshes, and textures are on GitHub https://github.com/HamishMW/volkihar-knight/
 
 ## Version 0.3.2
 - Unequipping and re-equipping all armor should now fix any issues with effects not being applied
