@@ -74,8 +74,6 @@ def buildDistDir(name, archive):
     shutil.rmtree(dirname)
     distDirs()
 
-  os.makedirs(dirname + '/fomod')
-
   # Generate BSA archive
   print 'Generating ' + name + ' BSA archive...'
   shutil.copy(archive, './tmp/' + name + '/Archive.exe')

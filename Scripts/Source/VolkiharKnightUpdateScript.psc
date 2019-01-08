@@ -15,8 +15,8 @@ event OnInit()
 endEvent
 
 function Maintenance()
-	if version < 0.4
-		version = 0.4
+	if version < 1.0
+		version = 1.0
 		Debug.Notification("Now running Volkihar Knight " + version)
 
     ;Update equip state on update
