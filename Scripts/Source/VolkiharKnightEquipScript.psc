@@ -13,14 +13,12 @@ function onEquipUnequip(Actor akActor)
 endFunction
 
 event OnUnequipped(Actor akActor)
-	Debug.Notification("unequip")
 	if akActor == PlayerRef
 		onEquipUnequip(akActor)
 	endif
 endevent
 
 event OnEquipped(Actor akActor)
-	Debug.Notification("equip")
 	if akActor == PlayerRef
 		int armorIndex = VolkiharKnightArmorFLST.GetSize()
 		onEquipUnequip(akActor)

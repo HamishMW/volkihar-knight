@@ -29,6 +29,7 @@ meshes\armor\volkiharknight\volkiharknighthoodf_0.nif
 meshes\armor\volkiharknight\volkiharknighthoodfarg_0.nif
 meshes\magic\volkiharknight\volkiharknightblastbackfx.nif
 Scripts\VolkiharAssassinInvisibilityScript.pex
+Scripts\VolkiharKnightEnableChestScript.pex
 Scripts\VolkiharKnightEquipScript.pex
 Scripts\VolkiharKnightEquipStateScript.pex
 Scripts\VolkiharKnightPlayerAliasScript.pex

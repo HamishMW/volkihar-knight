@@ -1,15 +1,14 @@
-ScriptName VolkiharKnightEquipStateScript
+Scriptname VolkiharKnightEquipStateScript
 {Shared equip state functions}
 
 function updateEquipState(Actor akActor, FormList armorList, FormList cuirassList, FormList spellList) global
 	int armorIndex = armorList.GetSize()
 	int numEquipped = 0
 	int cuirassType = -1
-	Debug.Notification("equip state")
+	Debug.Notification("equip state ckeck")
 
 	int spellIndex = spellList.GetSize()
 
-	Debug.Notification("sindex" + spellIndex)
 	while spellIndex
 		spellIndex -= 1
 		Spell effectSpell = spellList.GetAt(spellIndex) As Spell

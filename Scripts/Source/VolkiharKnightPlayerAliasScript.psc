@@ -1,4 +1,4 @@
-ScriptName VolkiharKnightPlayerAliasScript extends ReferenceAlias
+Scriptname VolkiharKnightPlayerAliasScript extends ReferenceAlias
 {Perform maintenance on first load}
 
 VolkiharKnightUpdateScript Property QuestScript Auto

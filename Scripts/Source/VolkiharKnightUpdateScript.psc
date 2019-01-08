@@ -1,4 +1,4 @@
-ScriptName VolkiharKnightUpdateScript extends Quest
+Scriptname VolkiharKnightUpdateScript extends Quest
 {Quest to handle updating mod version and save game load}
 
 Actor property PlayerRef auto
