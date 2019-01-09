@@ -15,6 +15,7 @@ event OnInit()
 endEvent
 
 function Maintenance()
+  Debug.Notification("vk_maintenance")
 	if version < 1.0
 		version = 1.0
 		Debug.Notification("Now running Volkihar Knight " + version)

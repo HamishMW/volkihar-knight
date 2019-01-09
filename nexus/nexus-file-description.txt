@@ -17,7 +17,7 @@ The hood offers much less protection than the ebony helmet but is balanced by
 the other pieces having a higher armor rating. [/size]
 
 
-Legendary Set Effects
+[color=#f0d396][center][font=Georgia][size=4]L[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]G[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]N[/size][size=2] [/size][size=4]D[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]Y[/size][size=2]  [/size][size=4]S[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]T[/size][size=2]  [/size][size=4]E[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]C[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]S[/size][/font]
 
 
 [size=3]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest in the Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Dependng on the cuirass, a different set bonus will be applied:[/size][/center]
@@ -41,8 +41,8 @@ air, draining their health by 20pts for 4 seconds
 
 [size=2]— [i]One With the Abyss[/i] —[/size][/color][/font]
 
-[size=3]Muffles your footsteps and allows vampires to
-regenerate stamina, magicka, and health in Sunlight
+[size=3]Muffles your footsteps and drains stamina, magicka,
+and health from nearby enemies while in sunlight
 
 
 
@@ -87,7 +87,7 @@ outside of combat, granting you invisibility[/size][/center]
 
 [font=Georgia][color=#f0d396][size=4]C[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]M[/size][size=2] [/size][size=4]P[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]B[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]Y[/size][/color][/font]
 
-[size=3]The only potential incompatibility with this mod would be any mod that alters the vampire weakness to sunlight effect, which will cause the Abysswalker effect to not regenerate properly. Known mods that change this effect are [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url]. If you use either of these mods, install the Abysswalker patch, which canges the effect to a constant health and stamina regen at a fixed amount.[/size]
+[size=3]Fully compatible with vampire overhaul mods such as [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url]. Any mod that changes Volkihar Keep Cathedral interior may result in the chest containing the legendary sets not appearing after defeating Harkon.[/size]
 
 
 [size=4][font=Georgia][color=#f0d396]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[size=2]  [/size]/[size=2]  [/size]U[size=2] [/size]N[size=2] [/size]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[/color][/font]
@@ -107,12 +107,3 @@ This is a big update, so check the changelog for a full list of changes. It's sa
 [*]If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again. Light armor is now included in the main plugin, so you no longer need a patch.
 [*]Specific mod patches are no longer included. The previous patches were out of date and it wasn't feasible to continously update them every time one of the mods were updated.
 [*]A new generic patch for the Abysswalker set bonus is available. This changes the effect to give a static boost to health/magicka/stamina regen instead of removing the weakness to sunlight effect. This should make this mod fully compatible with any vampire overhaul that changes the weakness to sunlight effect.
-
-
-[size=4][font=Georgia][color=#f0d396]F[size=2] [/size]A[size=2] [/size]Q[/color][/font]
-
-Q: Why are the armor effects not being applied to my character?
-A: Make sure you're wearing all pieces from the Legendary set found in Volkihar Keep Cathedral after confronting Harkon. If you are wearing all legendary pieces, try unequipping and re-equipping the armor.
-
-Q: Will you add [insert custom body] support?
-A: No, the armor is made for the vanilla body and I don't intend to make conversions.
