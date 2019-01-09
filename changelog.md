@@ -9,8 +9,7 @@ Kept you waiting huh? Welcome to 1.0.0. It addresses many of the missing feature
 [*]There are now basic armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.
 [*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
 [*]If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again. Light armor is now included in the main plugin, so you no longer need a patch.
-[*]Specific mod patches are no longer included. The latest version doesn't alter the weakness to sunlight effect, so it is now compatible with all vampire overhaul mods.
-[*]To eliminate the need for patches I've changed the Abysswalker effect. The new effect is Volkihar Knight: Embrace of the Abyss. The effect still muffles footsteps, but now drains a small portion of health, magicka, and stamina from nearby enemies while in sunlight instead of cancelling out the weakness to sunlight effect.
+[*]Specific mod patches are no longer needed. It's now compatible with all vampire overhauls.
 
 Be sure to check out the changelog for a full list of changes.
 
@@ -24,12 +23,14 @@ Be sure to check out the changelog for a full list of changes.
 - Changed the Abysswalker effect. The new effect is Volkihar Knight: Embrace of the Abyss. The effect still muffles footsteps, but now drains a small portion of health, magicka, and stamina from nearby enemies while in sunlight instead of cancelling out the weakness to sunlight effect.
 - !Added light armor version to the main plugin
 - Removed specific patches for Better Vampires and Sacrosanct. The new Abysswalker effect does not change any existing effects or effects modified by vampire overhauls, so it should be compatible with everything.
-- Added craftable versions with no set bonus effects
-- Added unique legendary sets to a chest in Volkihar Keep Cathedral (legendary sets apply the set bonus when 4 pieces worn). Only appears after you have confronted Harkon in the Kindred Judgement quest.
+- Changed craftable versions to have no scripted set bonus effects
+- Added unique legendary sets to a chest in Volkihar Keep Cathedral (legendary armor applies the set bonus when 4 pieces are worn). Only appears after you have confronted Harkon in the quest Kindred Judgement.
+- Added descriptions to the legendary armor pieces
 - Legendary sets are no longer craftable - there is now only one of each.
 - Previously crafted Volkihar Knight armor is now the standard version with no set bonus.
-- Refactored equip script. Any previous issues with equipping and set bonus effects being applied/removed should now be solved.
+- Refactored equip script to fix previous issues with equipping and set bonus effects being applied/removed.
 - Removed the fomod installer, it's no longer needed now that the patches are obsolete.
+- Removed dirty edits from the esp
 - Volkihar Knight is now open source. The mod's source scripts, meshes, and textures are on GitHub https://github.com/HamishMW/volkihar-knight/
 
 ## Version 0.3.2

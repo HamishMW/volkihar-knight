@@ -18,7 +18,7 @@ function Maintenance()
   Debug.Notification("vk_maintenance")
 	if version < 1.0
 		version = 1.0
-		Debug.Notification("Now running Volkihar Knight " + version)
+		Debug.Notification("Now running Volkihar Knight 1.0.0")
 
     ;Update equip state on update
     VolkiharKnightEquipStateScript.updateEquipState(PlayerRef, VolkiharKnightArmorFLST, VolkiharKnightCuirassFLST, VolkiharKnightArmorEffectFLST)

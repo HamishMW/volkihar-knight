@@ -86,7 +86,10 @@ def buildDistDir(name, archive):
   os.chdir('..\\..\\')
 
   # Copy files - Mod
-  shutil.copyfile('./Volkihar Knight.esp', dirname + '/Data/Volkihar Knight.esp')
+  if name == SEname:
+    shutil.copyfile('./plugins/Volkihar Knight SE.esp', dirname + '/Data/Volkihar Knight.esp')
+  else:
+    shutil.copyfile('./Volkihar Knight.esp', dirname + '/Data/Volkihar Knight.esp')
   shutil.copyfile('./tmp/' + name + '/Volkihar Knight.bsa', dirname + '/Data/Volkihar Knight.bsa')
 
   # Create release zip

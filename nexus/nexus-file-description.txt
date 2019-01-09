@@ -14,13 +14,13 @@ The armor is made with vanilla assets, so it fits into the game seamlessly.[/cen
 [i][size=6]—[/size][/i][/font][/center][/color]
 [center][size=3]The armor is equivalent to the ebony tier, and can be crafted with the ebony smithing perk.
 The hood offers much less protection than the ebony helmet but is balanced by
-the other pieces having a higher armor rating. [/size]
+the other pieces having a higher armor rating.[/size]
 
 
 [color=#f0d396][center][font=Georgia][size=4]L[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]G[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]N[/size][size=2] [/size][size=4]D[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]Y[/size][size=2]  [/size][size=4]S[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]T[/size][size=2]  [/size][size=4]E[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]C[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]S[/size][/font]
 
 
-[size=3]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest in the Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Dependng on the cuirass, a different set bonus will be applied:[/size][/center]
+[size=3]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest behind the altar in Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Dependng on the cuirass, a different set bonus will be applied:[/size][/center]
 
 
 [center][img]http://i.imgur.com/pN23Tjw.jpg[/img]
@@ -61,7 +61,7 @@ outside of combat, granting you invisibility[/size][/center]
 
 
 
-[size=3]The Legendary armor can be found in the Volkihar Keep Cathedral after you have confronted Harkon. A chest will appear behind the Molag Bal altar as a reward for defeating Harkon and completing the Dawnguard questline. Legendary pieces cannot be crafted, but can be upgraded. The standard sets can be crafted/upgraded at any time at the forge/workbench if you have the Ebony Smithing perk. Note that you must wear all legendary pieces to get the set effect - wearing a standard piece doesn't count towards the bonus.[/size]
+[size=3]The Legendary armor can be found in the Volkihar Keep Cathedral after you have confronted Harkon. A chest will appear behind the Molag Bal altar as a reward for defeating Harkon and completing the Dawnguard questline. Legendary pieces cannot be crafted, but can be upgraded. Note that you must wear all legendary pieces to get the full set effect - wearing a standard piece doesn't count towards the bonus. The standard armor can be crafted/upgraded at any time at the forge/workbench if you have the Ebony Smithing perk.[/size]
 
 
 
@@ -75,24 +75,29 @@ outside of combat, granting you invisibility[/size][/center]
 [/size]
 [list]
 [*][size=3]Male and Female versions[/size]
-[*][size=3]3 legendary variations with set bonus effects, found in Volkihar Keep Cathedral after confronting Harkon[/size]
-[*][size=3]Craftable versions without any effects[/size]
-[*][size=3]Craftable and upgradeable (with ebony smithing)[/size]
-[*][size=3]Fully enchantable (including the unique sets)[/size]
-[*][size=3]Heavy and light armor versions included[/size]
-[*][size=3]Beast race support[/size]
 [*][size=3]Weight slider support[/size]
+[*][size=3]Beast race support[/size]
+[*][size=3]3 legendary variations with set bonus effects, found in Volkihar Keep Cathedral after confronting Harkon[/size]
+[*][size=3]Craftable standard versions without any effects (with ebony smithing)[/size]
+[*][size=3]Fully enchantable and upgradeable (including the unique sets)[/size]
+[*][size=3]Heavy and light armor versions included[/size]
 [/list]
 
 
 [font=Georgia][color=#f0d396][size=4]C[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]M[/size][size=2] [/size][size=4]P[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]B[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]Y[/size][/color][/font]
 
-[size=3]Fully compatible with vampire overhaul mods such as [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url]. Any mod that changes Volkihar Keep Cathedral interior may result in the chest containing the legendary sets not appearing after defeating Harkon.[/size]
+[size=3]Fully compatible with vampire overhaul mods such as [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url]. Any mod that changes Volkihar Keep Cathedral interior may result in the chest containing the legendary sets not appearing after defeating Harkon. If you want the legendary sets and you're using a mod that changes Castle Volkihar's interior, you can still get them via console commands. Type:
+
+[code]help "Legendary Volkihar Knight"[/code]
+
+You will see a list of the legendary pieces with their item IDs. Next, type the following for each item:
+
+[code]player.additem <the item id> 1[/code][/size]
 
 
 [size=4][font=Georgia][color=#f0d396]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[size=2]  [/size]/[size=2]  [/size]U[size=2] [/size]N[size=2] [/size]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[/color][/font]
 
-[/size][size=3]Use your mod manager of choice to install the mod (manual install not recommended, it's messy).
+[/size][size=3]Use your mod manager of choice to install the mod.
 
 To uninstall, first take off any pieces of the armor, make a new save, then quit the game and uninstall using your mod manager.[/size]
 
@@ -101,9 +106,9 @@ To uninstall, first take off any pieces of the armor, make a new save, then quit
 
 [b]Version 0.3.2 to 1.0.0[/b]
 
-This is a big update, so check the changelog for a full list of changes. It's safe to upgrade on existing save games, just take note of the following:
+This is a major update, so check the changelog for a full list of changes. It's safe to upgrade on existing save games, just take note of the following:
 
-[*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed the Kindred Judgement the chest will still appear.
+[*]There are now basic armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.
+[*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
 [*]If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again. Light armor is now included in the main plugin, so you no longer need a patch.
-[*]Specific mod patches are no longer included. The previous patches were out of date and it wasn't feasible to continously update them every time one of the mods were updated.
-[*]A new generic patch for the Abysswalker set bonus is available. This changes the effect to give a static boost to health/magicka/stamina regen instead of removing the weakness to sunlight effect. This should make this mod fully compatible with any vampire overhaul that changes the weakness to sunlight effect.
+[*]Specific mod patches are no longer needed. It's now compatible with all vampire overhauls.
