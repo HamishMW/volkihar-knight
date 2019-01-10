@@ -4,7 +4,7 @@ Scriptname VolkiharKnightEquipStateScript
 function updateEquipState(Actor akActor, FormList armorList, FormList cuirassList, FormList spellList) global
 	int armorIndex = armorList.GetSize()
 	int numEquipped = 0
-	int cuirassType = -1
+	int cuirassIndex = -1
 	Debug.Notification("equip state ckeck")
 
 	int spellIndex = spellList.GetSize()
@@ -25,14 +25,19 @@ function updateEquipState(Actor akActor, FormList armorList, FormList cuirassLis
 
 			;Set VK cuirass type if the piece is a cuirass
 			if (cuirassList.HasForm(akItem))
-				cuirassType = cuirassList.Find(akItem)
+				cuirassIndex = cuirassList.Find(akItem)
+			endif
+
+			;Light cuirasses are double the index in the Formlist
+			if cuirassIndex > 2
+				cuirassIndex = cuirassIndex - 3
 			endif
 		endif
 	EndWhile
 
 	if (numEquipped >= 4)
 		Debug.Notification("applied")
-		Spell EqupiSpell = spellList.GetAt(cuirassType) As Spell
+		Spell EqupiSpell = spellList.GetAt(cuirassIndex) As Spell
 		akActor.AddSpell(EqupiSpell)
 	endif
 endFunction
