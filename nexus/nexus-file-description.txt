@@ -1,67 +1,67 @@
-[size=6][center][img]http://i.imgur.com/FseUuWy.jpg[/img][/center][/size]
+[size=7][center][img]http://i.imgur.com/FseUuWy.jpg[/img][/center][/size]
 [center][u][url=http://www.nexusmods.com/skyrim/mods/80634/][color=#f0d396]SKYRIM CLASSIC[/color][/url][/u][color=#f0d396]   [/color][color=#999999]|[/color][color=#f0d396]   [/color][u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261266][color=#f0d396]XBOX ONE[/color][/url][/u]   [color=#999999]|[/color]   [u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261085][color=#f0d396]BETH.NET PC[/color][/url][/u][/center]
 
-[size=4][center]A lore-friendly set of heavy vampire armor that comes in 3 variations,
+[size=6][center]A lore-friendly set of heavy vampire armor that comes in 3 variations,
 and unique legendary versions each with an effect that is applied once all four pieces are worn.
-The armor is made with vanilla assets, so it fits into the game seamlessly.[/center][/size]
+The armor is made with vanilla assets as a base, so it fits into the game seamlessly.[/center][/size]
 
 
 [line]
 
 
-[color=#f0d396][center][font=Georgia][size=4]D[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][/font][font=Georgia][size=2] [/size][/font][font=Georgia][size=4]S[/size]
+[color=#f0d396][center][font=Georgia][size=5]D[/size][size=3] [/size][size=5]E[/size][size=3] [/size][size=5]T[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]L[/size][/font][font=Georgia][size=3] [/size][/font][font=Georgia][size=5]S[/size]
 
 [i][size=6]—[/size][/i][/font][/center][/color]
-[center][size=3]The armor is equivalent to the ebony tier, and can be crafted with the ebony smithing perk.
+[center][size=4]The armor is equivalent to the ebony tier, and can be crafted with the ebony smithing perk.
 The hood offers much less protection than the ebony helmet but is balanced by
 the other pieces having a higher armor rating.[/size]
 
 
-[color=#f0d396][center][font=Georgia][size=4]L[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]G[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]N[/size][size=2] [/size][size=4]D[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]Y[/size][size=2]  [/size][size=4]S[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]T[/size][size=2]  [/size][size=4]E[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]F[/size][size=2] [/size][size=4]E[/size][size=2] [/size][size=4]C[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]S[/size][/font]
+[color=#f0d396][/color][center][color=#f0d396][font=Georgia][size=5]L[/size][size=3] [/size][size=5]E[/size][size=3] [/size][size=5]G[/size][size=3] [/size][size=5]E[/size][size=3] [/size][size=5]N[/size][size=3] [/size][size=5]D[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]Y[/size][size=3]  [/size][size=5]S[/size][size=3] [/size][size=5]E[/size][size=3] [/size][size=5]T[/size][size=3] [/size][size=5]S[/size][/font][/color]
 
 
-[size=3]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest behind the altar in Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Dependng on the cuirass, a different set bonus will be applied:[/size][/center]
+[size=4]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest behind the altar in Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Depending on the cuirass, a different set bonus will be applied:[/size][/center]
 
 
 [center][img]http://i.imgur.com/pN23Tjw.jpg[/img]
 
-[color=#f0d396][font=Georgia][size=4]R[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]Y[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]L  G[/size][size=2] [/size][size=4]U[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]D  C[/size][size=2] [/size][size=4]U[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]S[/size][size=2] [/size][size=4]S
+[color=#f0d396][font=Georgia][size=5]R[/size][size=3] [/size][size=5]O[/size][size=3] [/size][size=5]Y[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]L  G[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]D  C[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]S[/size][size=3] [/size][size=5]S
 [/size]
-[i][size=2]— Of Royal Blood —[/size][/i][/font][/color]
+[i][size=3]— Of Royal Blood —[/size][/i][/font][/color]
 
-[size=3]Gives a 15% chance to throw melee attackers into the
+[size=4]Gives a 15% chance to throw melee attackers into the
 air, draining their health by 20pts for 4 seconds
 
 
 
 
-[/size][/center][center][img]http://i.imgur.com/dfWjGc4.jpg[/img]
+[/size][/center][center][img]http://i.imgur.com/dfWjGc4.jpg[/img][/center]
 
-[font=Georgia][color=#f0d396][size=4]A[size=2] [/size]B[size=2] [/size]Y[size=2] [/size]S[size=2] [/size]S[/size][size=2] [/size][size=4]W[size=2] [/size]A[size=2] [/size]L[size=2] [/size]K[size=2] [/size]E[size=2] [/size]R[/size][size=2]   [/size][size=4]C[/size][size=2] [/size][size=4]U[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]R[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]S[/size][size=2] [/size][size=4]S[/size]
+[font=Georgia][color=#f0d396][size=5]A[size=3] [/size]B[size=3] [/size]Y[size=3] [/size]S[size=3] [/size]S[/size][size=3] [/size][size=5]W[size=3] [/size]A[size=3] [/size]L[size=3] [/size]K[size=3] [/size]E[size=3] [/size]R[/size][size=3]   [/size][size=5]C[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]S[/size][size=3] [/size][size=5]S[/size]
 
-[size=2]— [i]One With the Abyss[/i] —[/size][/color][/font]
+[size=3]— [i]One With the Abyss[/i] —[/size][/color][/font]
 
-[size=3]Muffles your footsteps and drains stamina, magicka,
-and health from nearby enemies while in sunlight
-
-
+[center][size=4]Muffles your footsteps and drains stamina, magicka,
+and health from nearby enemies while in sunlight[/size][/center]
 
 
-[/size][/center]
-[center][img]http://i.imgur.com/zjQbnWc.jpg[/img]
 
-[font=Georgia][color=#f0d396][size=4]A[size=2] [/size]S[size=2] [/size]S[size=2] [/size]A[size=2] [/size]S[size=2] [/size]S[size=2] [/size]I[size=2] [/size]N  C[size=2] [/size]U[size=2] [/size]I[size=2] [/size]R[size=2] [/size]A[size=2] [/size]S[size=2] [/size]S
+
+
+[center][img]http://i.imgur.com/zjQbnWc.jpg[/img][/center]
+
+[font=Georgia][color=#f0d396][size=5]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]I[size=3] [/size]N  C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S
 [/size]
-[size=2]— [i]Smoke and Shadow[/i] —[/size][/color][/font]
+[size=3]— [i]Smoke and Shadow[/i] —[/size][/color][/font]
 
-[size=3]Turns you into a wisp of smoke when you sneak
+[size=4]Turns you into a wisp of smoke when you sneak
 outside of combat, granting you invisibility[/size][/center]
 
 
 
 
 
-[size=3]The Legendary armor can be found in the Volkihar Keep Cathedral after you have confronted Harkon. A chest will appear behind the Molag Bal altar as a reward for defeating Harkon and completing the Dawnguard questline. Legendary pieces cannot be crafted, but can be upgraded. Note that you must wear all legendary pieces to get the full set effect - wearing a standard piece doesn't count towards the bonus. The standard armor can be crafted/upgraded at any time at the forge/workbench if you have the Ebony Smithing perk.[/size]
+[size=4]The Legendary armor can be found in the Volkihar Keep Cathedral after you have confronted Harkon in the quest Kindred Judgement. A chest will appear behind the Molag Bal altar as a reward for defeating Harkon and completing the Dawnguard questline. Legendary pieces cannot be crafted, but can be upgraded. Note that you must wear all legendary pieces to get the full set effect – wearing a standard piece doesn't count towards the bonus. The standard armor can be crafted/upgraded at any time at the forge/workbench if you have the Ebony Smithing perk.[/size]
 
 
 
@@ -71,44 +71,39 @@ outside of combat, granting you invisibility[/size][/center]
 
 
 
-[size=4][font=Georgia][color=#f0d396]F[size=2] [/size]E[size=2] [/size]A[size=2] [/size]T[size=2] [/size]U[size=2] [/size]R[size=2] [/size]E[size=2] [/size]S[/color][/font]
-[/size]
+[size=5][color=#f0d396][font=Georgia][color=#f0d396]F[size=3] [/size]E[size=3] [/size]A[size=3] [/size]T[size=3] [/size]U[size=3] [/size]R[size=3] [/size]E[size=3] [/size]S[/color][/font]
+[/color]
 [list]
-[*][size=3]Male and Female versions[/size]
-[*][size=3]Weight slider support[/size]
-[*][size=3]Beast race support[/size]
-[*][size=3]3 legendary variations with set bonus effects, found in Volkihar Keep Cathedral after confronting Harkon[/size]
-[*][size=3]Craftable standard versions without any effects (with ebony smithing)[/size]
-[*][size=3]Fully enchantable and upgradeable (including the unique sets)[/size]
-[*][size=3]Heavy and light armor versions included[/size]
+[*][size=4]Male and Female versions[/size]
+[*][size=4]Weight slider support[/size]
+[*][size=4]Beast race support[/size]
+[*][size=4]3 legendary variations with set bonus effects, found in Volkihar Keep Cathedral after confronting Harkon[/size]
+[*][size=4]Craftable standard versions without any effects (with ebony smithing)[/size]
+[*][size=4]Fully enchantable and upgradeable (including the unique sets)[/size]
+[*][size=4]Heavy and light armor versions included[/size]
 [/list]
 
 
-[font=Georgia][color=#f0d396][size=4]C[/size][size=2] [/size][size=4]O[/size][size=2] [/size][size=4]M[/size][size=2] [/size][size=4]P[/size][size=2] [/size][size=4]A[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]B[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]L[/size][size=2] [/size][size=4]I[/size][size=2] [/size][size=4]T[/size][size=2] [/size][size=4]Y[/size][/color][/font]
+[font=Georgia][color=#f0d396][size=5]C[/size][size=3] [/size][size=5]O[/size][size=3] [/size][size=5]M[/size][size=3] [/size][size=5]P[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]T[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]B[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]L[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]T[/size][size=3] [/size][size=5]Y[/size][/color][/font]
 
-[size=3]Fully compatible with vampire overhaul mods such as [url=http://www.nexusmods.com/skyrimspecialedition/mods/3928/]Sacrosanct[/url] and [url=http://www.nexusmods.com/skyrimspecialedition/mods/1925/]Better Vampires[/url]. Any mod that changes Volkihar Keep Cathedral interior may result in the chest containing the legendary sets not appearing after defeating Harkon. If you want the legendary sets and you're using a mod that changes Castle Volkihar's interior, you can still get them via console commands. Type:
-
-[code]help "Legendary Volkihar Knight"[/code]
-
-You will see a list of the legendary pieces with their item IDs. Next, type the following for each item:
-
-[code]player.additem <the item id> 1[/code][/size]
+[size=4]Fully compatible with vampire overhaul mods such as Sacrosanct and Better Vampires. Also tested to be compatible with Castle Volkihar Rebuilt.[/size]
 
 
-[size=4][font=Georgia][color=#f0d396]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[size=2]  [/size]/[size=2]  [/size]U[size=2] [/size]N[size=2] [/size]I[size=2] [/size]N[size=2] [/size]S[size=2] [/size]T[size=2] [/size]A[size=2] [/size]L[size=2] [/size]L[/color][/font]
+[size=5][font=Georgia][color=#f0d396]I[size=3] [/size]N[size=3] [/size]S[size=3] [/size]T[size=3] [/size]A[size=3] [/size]L[size=3] [/size]L[size=3]  [/size]/[size=3]  [/size]U[size=3] [/size]N[size=3] [/size]I[size=3] [/size]N[size=3] [/size]S[size=3] [/size]T[size=3] [/size]A[size=3] [/size]L[size=3] [/size]L[/color][/font][/size]
 
-[/size][size=3]Use your mod manager of choice to install the mod.
+[size=4]Use your mod manager of choice to install the mod.
 
 To uninstall, first take off any pieces of the armor, make a new save, then quit the game and uninstall using your mod manager.[/size]
 
 
-[size=4][font=Georgia][color=#f0d396]U[size=2] [/size]P[size=2] [/size]D[size=2] [/size]A[size=2] [/size]T[size=2] [/size]I[size=2] [/size]N[size=2]  [/size]G[/color][/font]
+[font=Georgia][color=#f0d396]U[size=3] [/size]P[size=3] [/size]D[size=3] [/size]A[size=3] [/size]T[size=3] [/size]I[size=3] [/size]N[size=3] [/size]G[/color][/font][/size]
 
-[b]Version 0.3.2 to 1.0.0[/b]
+[size=4][b]Version 0.3.2 to 1.0.0[/b]
 
 This is a major update, so check the changelog for a full list of changes. It's safe to upgrade on existing save games, just take note of the following:
 
 [*]There are now basic armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.
-[*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
+[*]Any previously crafted armor will no longer receive the set bonus – only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of the quest Kindred Judgement). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
 [*]If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again. Light armor is now included in the main plugin, so you no longer need a patch.
 [*]Specific mod patches are no longer needed. It's now compatible with all vampire overhauls.
+[/size]

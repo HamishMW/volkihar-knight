@@ -2,9 +2,9 @@
 
 Release message:
 
-Volkihar Knight 1.0.0 release
+Volkihar Knight 1.0.0
 
-Kept you waiting huh? Welcome to 1.0.0. It addresses many of the missing features and issues of the inital release. It's safe to update on existing saves, but there are some changes to be aware of:
+This release addresses many missing features, bugs, and improvements. It's safe to update on existing saves, but there are some changes to be aware of:
 
 [*]There are now basic armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.
 [*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
@@ -15,12 +15,13 @@ Be sure to check out the changelog for a full list of changes.
 
 ## Version 1.0.0
 - Weight slider support
-- Improved textures
 - New gauntlets design
+- Improved the size and fitting of female boot and gauntlet meshes
+- Improved textures
 - Reworked UV maps and condensed textures into fewer files to improve performance (note any retextures will need to be updated to align with the new UVs for the robes)
-- Added female boot and gauntlet meshes
 - Fixed female first person view textures
-- Changed the Abysswalker effect. The new effect is Volkihar Knight: Embrace of the Abyss. The effect still muffles footsteps, but now drains a small portion of health, magicka, and stamina from nearby enemies while in sunlight instead of cancelling out the weakness to sunlight effect.
+- Changed the Abysswalker effect. It still muffles footsteps, but now drains a small portion of health, magicka, and stamina from nearby enemies while in sunlight instead of cancelling out the weakness to sunlight effect. This means the Legendary Abyssawalker set can be used with vampire overhaul mods without a patch.
+- Reduced the Royal Guard effect chance to 10%
 - !Added light armor version to the main plugin
 - Removed specific patches for Better Vampires and Sacrosanct. The new Abysswalker effect does not change any existing effects or effects modified by vampire overhauls, so it should be compatible with everything.
 - Changed craftable versions to have no scripted set bonus effects

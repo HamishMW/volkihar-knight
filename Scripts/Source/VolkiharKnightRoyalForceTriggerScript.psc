@@ -8,7 +8,8 @@ event OnHit(ObjectReference akAggressor, Form akSource, Projectile akProjectile,
 	if ((akSource as Weapon) != None && !akSource.HasKeyword(WeapTypeBow) && (akAggressor as Actor) != None)
 		int roll = Utility.RandomInt(0, 99)
 
-		if (roll < 15)
+		;10% chance to proc the effect
+		if (roll < 10)
 			VolkiharKnightArmorEffectRoyalForceDrainSpell.Cast(akAggressor)
 		endIf
 	endIf
