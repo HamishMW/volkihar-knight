@@ -1,4 +1,4 @@
-[size=7][center][img]http://i.imgur.com/FseUuWy.jpg[/img][/center][/size]
+[size=7][center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178906-671024936.jpeg[/img][/center][/size]
 [center][u][url=http://www.nexusmods.com/skyrim/mods/80634/][color=#f0d396]SKYRIM CLASSIC[/color][/url][/u][color=#f0d396]   [/color][color=#999999]|[/color][color=#f0d396]   [/color][u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261266][color=#f0d396]XBOX ONE[/color][/url][/u]   [color=#999999]|[/color]   [u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261085][color=#f0d396]BETH.NET PC[/color][/url][/u][/center]
 
 [size=6][center]A lore-friendly set of heavy vampire armor that comes in 3 variations,
@@ -23,7 +23,7 @@ the other pieces having a higher armor rating.[/size]
 [size=4]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest behind the altar in Volkihar Keep Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Depending on the cuirass, a different set bonus will be applied:[/size][/center]
 
 
-[center][img]http://i.imgur.com/pN23Tjw.jpg[/img]
+[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178433-830257232.png[/img]
 
 [color=#f0d396][font=Georgia][size=5]R[/size][size=3] [/size][size=5]O[/size][size=3] [/size][size=5]Y[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]L  G[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]D  C[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]S[/size][size=3] [/size][size=5]S
 [/size]
@@ -35,7 +35,7 @@ air, draining their health by 20pts for 4 seconds
 
 
 
-[/size][/center][center][img]http://i.imgur.com/dfWjGc4.jpg[/img][/center]
+[/size][/center][center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178471-648700654.png[/img][/center]
 
 [font=Georgia][color=#f0d396][size=5]A[size=3] [/size]B[size=3] [/size]Y[size=3] [/size]S[size=3] [/size]S[/size][size=3] [/size][size=5]W[size=3] [/size]A[size=3] [/size]L[size=3] [/size]K[size=3] [/size]E[size=3] [/size]R[/size][size=3]   [/size][size=5]C[/size][size=3] [/size][size=5]U[/size][size=3] [/size][size=5]I[/size][size=3] [/size][size=5]R[/size][size=3] [/size][size=5]A[/size][size=3] [/size][size=5]S[/size][size=3] [/size][size=5]S[/size]
 
@@ -48,7 +48,7 @@ and health from nearby enemies while in sunlight[/size][/center]
 
 
 
-[center][img]http://i.imgur.com/zjQbnWc.jpg[/img][/center]
+[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178510-536414807.png[/img][/center]
 
 [font=Georgia][color=#f0d396][size=5]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]I[size=3] [/size]N  C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S
 [/size]
