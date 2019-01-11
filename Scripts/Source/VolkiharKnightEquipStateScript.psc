@@ -5,7 +5,6 @@ function updateEquipState(Actor akActor, FormList armorList, FormList cuirassLis
 	int armorIndex = armorList.GetSize()
 	int numEquipped = 0
 	int cuirassIndex = -1
-	Debug.Notification("equip state ckeck")
 
 	int spellIndex = spellList.GetSize()
 
@@ -36,7 +35,6 @@ function updateEquipState(Actor akActor, FormList armorList, FormList cuirassLis
 	EndWhile
 
 	if (numEquipped >= 4)
-		Debug.Notification("applied")
 		Spell EqupiSpell = spellList.GetAt(cuirassIndex) As Spell
 		akActor.AddSpell(EqupiSpell)
 	endif
