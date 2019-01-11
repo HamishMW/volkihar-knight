@@ -1,6 +1,6 @@
 # Volkihar Knight
 
-![Volkihar Knight mod preview](https://i.imgur.com/FseUuWy.jpg)
+![Volkihar Knight mod preview](https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178906-671024936.jpeg)
 
 This repository contains the source files for the [Volkihar Knight vampire armor mod](https://www.nexusmods.com/skyrimspecialedition/mods/4806/) for Skyrim.
 
