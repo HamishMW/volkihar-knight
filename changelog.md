@@ -1,18 +1,5 @@
 # Changelog
 
-Release message:
-
-Volkihar Knight 1.0.0
-
-This release addresses many missing features, bugs, and improvements. It's safe to update on existing saves, but there are some changes to be aware of:
-
-[*]There are now basic armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.
-[*]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Keep Cathedral after confronting Harkon (at the start of Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor. If you've previously completed Kindred Judgement the chest will still appear.
-[*]If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again. Light armor is now included in the main plugin, so you no longer need a patch.
-[*]Specific mod patches are no longer needed. It's now compatible with all vampire overhauls.
-
-Be sure to check out the changelog for a full list of changes.
-
 ## Version 1.0.0
 - Weight slider support
 - New gauntlets design
@@ -22,7 +9,7 @@ Be sure to check out the changelog for a full list of changes.
 - Fixed female first person view textures
 - Changed the Abysswalker effect. It still muffles footsteps, but now drains a small portion of health, magicka, and stamina from nearby enemies while in sunlight instead of cancelling out the weakness to sunlight effect. This means the Legendary Abyssawalker set can be used with vampire overhaul mods without a patch.
 - Reduced the Royal Guard effect chance to 10%
-- !Added light armor version to the main plugin
+- Added light armor version to the main plugin
 - Removed specific patches for Better Vampires and Sacrosanct. The new Abysswalker effect does not change any existing effects or effects modified by vampire overhauls, so it should be compatible with everything.
 - Changed craftable versions to have no scripted set bonus effects
 - Added unique legendary sets to a chest in Volkihar Keep Cathedral (legendary armor applies the set bonus when 4 pieces are worn). Only appears after you have confronted Harkon in the quest Kindred Judgement.
