@@ -2,7 +2,7 @@
 
 [center][u][url=http://www.nexusmods.com/skyrim/mods/80634/][color=#f0d396]SKYRIM CLASSIC[/color][/url][/u][color=#f0d396]   [/color][color=#999999]|[/color][color=#f0d396]   [/color][u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261266][color=#f0d396]XBOX ONE[/color][/url][/u]   [color=#999999]|[/color]   [u][url=https://mods.bethesda.net/#en/workshop/skyrim/mod-detail/3261085][color=#f0d396]BETH.NET PC[/color][/url][/u][/center]
 
-[size=4][center]A lore-friendly set of heavy vampire armor that comes in 3 variations. Unique legendary
+[size=4][center]A lore-friendly set of vampire armor that comes in 3 variations. Unique legendary
 versions can be found, each with an effect that is applied once all four pieces are worn.
 The armor is made with vanilla assets as a base, so it fits into the game seamlessly.[/center][/size]
 
@@ -11,7 +11,7 @@ The armor is made with vanilla assets as a base, so it fits into the game seamle
 
 
 [center][color=#f0d396][font=Georgia][size=5]D[size=3] [/size]E[size=3] [/size]T[size=3] [/size]A[size=3] [/size]I[size=3] [/size]L[size=3] [/size]S[/size][/font][/color][/center][center][color=#f0d396][font=Georgia][i][size=6]—[/size][/i][/font][/color][/center]
-[center][size=4]The heavy armor is equivalent to the ebony tier, while the light armor is equivalent to glass. Standard versions with no set effects can be crafted with the ebony smithing perk. The hood offers much less protection than the ebony helmet but is balanced by the other pieces having a higher armor rating.[/size][/center]
+[center][size=4]The heavy armor is equivalent to the ebony tier, while the light armor is equivalent to glass. Standard versions with no set effects can be crafted with the ebony smithing perk. The hood offers much less protection than a helmet, but is balanced by the other pieces having a higher armor rating.[/size][/center]
 
 
 [line]
@@ -28,7 +28,7 @@ The armor is made with vanilla assets as a base, so it fits into the game seamle
 
 [center][color=#f0d396][font=Georgia][size=5]R[size=3] [/size]O[size=3] [/size]Y[size=3] [/size]A[size=3] [/size]L  G[size=3] [/size]U[size=3] [/size]A[size=3] [/size]R[size=3] [/size]D  C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[/size][/font][/color][/center]
 [center][color=#f0d396][font=Georgia][i][size=3]— Of Royal Blood —[/size][/i][/font][/color][/center]
-[center][size=4]Gives a 15% chance to throw melee attackers into the
+[center][size=4]Gives a 10% chance to throw melee attackers into the
 air, draining their health by 20pts for 4 seconds[/size][/center]
 
 
@@ -87,7 +87,7 @@ outside of combat, granting you invisibility[/size][/center]
 
 [font=Georgia][color=#f0d396][size=5]C[size=3] [/size]O[size=3] [/size]M[size=3] [/size]P[size=3] [/size]A[size=3] [/size]T[size=3] [/size]I[size=3] [/size]B[size=3] [/size]I[size=3] [/size]L[size=3] [/size]I[size=3] [/size]T[size=3] [/size]Y[/size][/color][/font]
 
-[size=3]Fully compatible with vampire overhaul mods such as Sacrosanct and Better Vampires. Also tested to be compatible with Castle Volkihar Rebuilt.[/size]
+[size=3]Fully compatible with vampire overhaul mods such as Sacrosanct and Better Vampires. Also tested to be compatible with Castle Volkihar Rebuilt (the legendary armor chest is still placed after improving Volkihar Cathedral).[/size]
 
 
 
