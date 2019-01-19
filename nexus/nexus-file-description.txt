@@ -22,9 +22,7 @@ The armor is made with vanilla assets as a base, so it fits into the game seamle
 [center][size=4]In addition to the standard craftable versions, 3 Legendary sets can be found in a chest behind the altar in Volkihar Cathedral after confronting Harkon. Each Legendary set gives a bonus when all pieces are worn (Legendary Volkihar Knight cuirass, boots, gauntlets, and hood). Depending on the cuirass, a different set bonus will be applied:[/size][/center]
 
 
-[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178433-830257232.png[/img][/center]
-
-
+[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547550392-1624734240.png[/img][/center]
 
 [center][color=#f0d396][font=Georgia][size=5]R[size=3] [/size]O[size=3] [/size]Y[size=3] [/size]A[size=3] [/size]L  G[size=3] [/size]U[size=3] [/size]A[size=3] [/size]R[size=3] [/size]D  C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[/size][/font][/color][/center]
 [center][color=#f0d396][font=Georgia][i][size=3]— Of Royal Blood —[/size][/i][/font][/color][/center]
@@ -33,10 +31,7 @@ air, draining their health by 20pts for 4 seconds[/size][/center]
 
 
 
-
-[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178471-648700654.png[/img][/center]
-
-
+[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547550442-1697170630.png[/img][/center]
 
 [center][font=Georgia][color=#f0d396][size=5]A[size=3] [/size]B[size=3] [/size]Y[size=3] [/size]S[size=3] [/size]S[size=3] [/size]W[size=3] [/size]A[size=3] [/size]L[size=3] [/size]K[size=3] [/size]E[size=3] [/size]R[size=3]   [/size]C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[/size][/color][/font][/center]
 [center][font=Georgia][color=#f0d396][size=3]— [i]Embrace of the Abyss[/i] —[/size][/color][/font][/center]
@@ -45,10 +40,7 @@ and health from nearby enemies while in sunlight[/size][/center]
 
 
 
-
-[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547178510-536414807.png[/img][/center]
-
-
+[center][img]https://staticdelivery.nexusmods.com/mods/1704/images/4806/4806-1547550490-1838417793.png[/img][/center]
 
 [center][font=Georgia][color=#f0d396][size=5]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[size=3] [/size]I[size=3] [/size]N  C[size=3] [/size]U[size=3] [/size]I[size=3] [/size]R[size=3] [/size]A[size=3] [/size]S[size=3] [/size]S[/size][/color][/font][/center]
 [center][font=Georgia][color=#f0d396][size=3]— [i]Smoke and Shadow[/i] —[/size][/color][/font][/center]
@@ -65,9 +57,13 @@ outside of combat, granting you invisibility[/size][/center]
 
 
 
-
 [line]
 
+
+
+[font=Georgia][color=#f0d396][size=5]F[size=3] [/size]E[size=3] [/size]A[size=3] [/size]T[size=3] [/size]U[size=3] [/size]R[size=3] [/size]E[size=3] [/size]D  V[size=3] [/size]I[size=3] [/size]D[size=3] [/size]E[size=3] [/size]O[size=3] [/size]S[/size][/color][/font]
+
+[youtube]pyDLcTvTar4?start=584[/youtube][youtube]OMu8NbvCjGM?start=151[/youtube]
 
 
 
@@ -87,7 +83,7 @@ outside of combat, granting you invisibility[/size][/center]
 
 [font=Georgia][color=#f0d396][size=5]C[size=3] [/size]O[size=3] [/size]M[size=3] [/size]P[size=3] [/size]A[size=3] [/size]T[size=3] [/size]I[size=3] [/size]B[size=3] [/size]I[size=3] [/size]L[size=3] [/size]I[size=3] [/size]T[size=3] [/size]Y[/size][/color][/font]
 
-[size=3]Fully compatible with vampire overhaul mods such as Sacrosanct and Better Vampires. Also tested to be compatible with Castle Volkihar Rebuilt (the legendary armor chest is still placed after improving Volkihar Cathedral).[/size]
+[size=3]Fully compatible with vampire overhaul mods such as Sacrosanct and Better Vampires (as of version 1.0.0). Also tested to be compatible with Castle Volkihar Rebuilt (the legendary armor chest is still placed after improving Volkihar Cathedral).[/size]
 
 
 
@@ -105,7 +101,7 @@ This is a major update, so check the changelog for a full list of changes. It's 
 
 [list]
 [*][size=3]There are now standard craftable armor sets with no bonus effects, and legendary versions that confer a bonus when all pieces are worn.[/size]
-[*][size=3]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Cathedral after confronting Harkon (the quest Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor (both heavy ands light). If you've previously completed Kindred Judgement the chest will still appear. Legendary armor is unique, you only get one of each piece, they aren't craftable. They're still enchantable and can be upgraded at workbenches though.[/size]
+[*][size=3]Any previously crafted armor will no longer receive the set bonus - only the legendary sets have the scripted effects. You must visit Volkihar Cathedral after confronting Harkon (the quest Kindred Judgment). There will be a chest behind the Molag Bal altar containing the Legendary Volkihar Knight armor (both heavy and light). If you've previously completed Kindred Judgement the chest will still appear. Legendary armor is unique, you only get one of each piece, they aren't craftable. They're still enchantable and can be upgraded at workbenches though.[/size]
 [*][size=3]Light armor is now included in the main plugin, so you no longer need a patch. If you had the light armor patch installed, your armor will change to heavy armor. You will have to craft the armor again, or get the legendary set from the chest.[/size]
 [*][size=3]Specific mod patches are no longer needed. I made changes to the Abysswalker effect so that it should now be compatible with all vampire overhauls.[/size]
 [/list]
