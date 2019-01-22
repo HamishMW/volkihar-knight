@@ -4,6 +4,7 @@ import subprocess
 import getopt
 
 # Change steamDir to your steam folder location
+# TODO: make steamDir more easily configurable
 steamDir = 'E:/Games/SteamLibrary'
 modName = 'Volkihar Knight'
 ckClassicDir = steamDir + '/steamapps/common/Skyrim'

@@ -3,7 +3,7 @@ Scriptname VolkiharAssassinInvisibilityScript extends activemagiceffect
 
 event OnEffectStart(Actor akTarget, Actor akCaster)
 	;Make player turn invisible and throw away attached arrows.
-	;speeds up fade rate (max 1 min .1
+	;speeds up fade rate (max 1 min .1)
 	akCaster.SetSubGraphFloatVariable("fdampRate", 0.015)
 	;blends between two anims default 0 (0 = there 1 = gone)
 	akCaster.SetSubGraphFloatVariable("ftoggleBlend", 1.45)
