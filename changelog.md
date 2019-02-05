@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.0.1
+- Fixed transparency issue with Sacrosanct's obfuscate effect
+
 ## Version 1.0.0
 - Weight slider support
 - New gauntlets design
